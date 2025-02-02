@@ -1,0 +1,1 @@
+This task involved designing and developing a landing page for an NGO website. It was an incredible opportunity to apply my skills in HTML and CSS, to create a user-friendly and visually appealing interface.
